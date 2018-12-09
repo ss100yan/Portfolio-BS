@@ -1,21 +1,30 @@
-#react
-{ 
-    
-    color:black;
-      
-};
-#angular
-{ 
-    
-    color: white;
-};
-#node
-{ 
-   
-    color: white;
-};
-#bootstrap
-{ 
-   
-    color: white;
-};
+
+
+
+.work:nth-child(even) {
+  margin-right: 40px;
+}
+
+.work img {
+  width: 60%;
+  border: 0 none;
+  opacity: 0.8;
+}
+
+.work h5 {
+  position: relative;
+  bottom: 20px;
+  width: 60%;
+  padding: 15px;
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 30px;
+  color: #ffffff;
+  text-align: center;
+  background: #4aaaa5;
+  border-bottom: 0;
+}
+.row{
+    margin-left: 0;
+}
+
